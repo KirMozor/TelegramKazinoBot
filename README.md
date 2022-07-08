@@ -1,5 +1,5 @@
 # TelegramKazinoBot
-# Repository moved to [GitLab](https://gitlab.com/KirMozor/TelegramBotKazino)
+# Repository moved to [GitLab](https://gitlab.com/KirMozor/TelegramKazinoBot)
 
 Hello random user! You see your telegram bot. This is a casino bot and it can do the following:
 
